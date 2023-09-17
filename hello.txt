@@ -1,2 +1,4 @@
 untracked : means the file present is not saved in git
 				for this use git add filename
+
+hello mere pyare dosto i am your beloved techisirg my 2nd line
