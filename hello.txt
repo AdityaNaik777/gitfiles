@@ -1,0 +1,2 @@
+untracked : means the file present is not saved in git
+				for this use git add filename
